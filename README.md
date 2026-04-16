@@ -7,7 +7,7 @@ I've managed accounts, led onboardings, and driven churn prevention to boost rev
 Starting my data analytic journey, blending business acumen with Python, SQL, and visualization skills.
 
 🔭 **Career Transition**: Customer Success → Data Analytics  
-🎯 **Target Roles**: Junior DA in SaaS, e-commerce, or product analytics  
+🎯 **Target Roles**: Data Analyst in SaaS, e-commerce, or product analytics  
 💼 **Experience**: Account management, churn prevention, revenue growth, product adoption 
 
 🛠️ **Technical Skills**  
@@ -15,13 +15,13 @@ Starting my data analytic journey, blending business acumen with Python, SQL, an
 
 **Languages**: Python (pandas, seaborn), SQL  
 **Visualization**: Tableau, Matplotlib  
-**Tools**: Git, Jupyter, 
+**Tools**: Git, Jupyter, Jira
 **Analysis**: Cohort analysis, churn prediction 
 
 📫 **Get in Touch**  
 [](https://github.com/estelle90#-get-in-touch)
 
-Open to **Junior Data Analyst** roles where customer insights meet data.  
+Open to **Data Analyst** and **Revenue Operations** roles where customer insights meet data.  
 Reach out via [LinkedIn]([https://linkedin.com/in/yourprofile](http://linkedin.com/in/estelle-ntimih-85594a1b1
 )) or email.
 
