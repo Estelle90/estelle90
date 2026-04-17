@@ -9,6 +9,7 @@ Starting my data analytic journey, blending business acumen with Python, SQL, an
 🔭 **Career Transition**: Customer Success → Data Analytics 
 
 🎯 **Career focus**: Data Analytics, Product Analytics, and Revenue Operations in SaaS
+
 💼 **Experience**: Account management, churn prevention, revenue growth, product adoption 
 
 🛠️ **Technical Skills**  
