@@ -18,7 +18,6 @@ Starting my data analytic journey, blending business acumen with Python, SQL, an
 **Languages**: Python (pandas, seaborn), SQL  
 **Visualization**: Tableau, Matplotlib  
 **Tools**: Git, Jupyter, Jira
-
 **Analysis**: Cohort analysis, churn prediction 
 
 📫 **Get in Touch**  
