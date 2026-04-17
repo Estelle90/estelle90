@@ -15,7 +15,7 @@ Account management, churn prevention, revenue growth, and product adoption
 - Languages: Python, SQL
 - Python Libraries: pandas, seaborn, Matplotlib
 - Visualization: Tableau
-- Tools: Git, Jupyter, Jira
+- Tools: Git, Jupyter, Jira, Notion
 - Analysis: Cohort analysis, churn prediction
 
 ## 📫 Get in Touch
