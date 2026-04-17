@@ -7,6 +7,7 @@ I've managed accounts, led onboardings, and driven churn prevention to boost rev
 Starting my data analytic journey, blending business acumen with Python, SQL, and visualization skills.
 
 🔭 **Career Transition**: Customer Success → Data Analytics 
+
 🎯 **Career focus**: Data Analytics, Product Analytics, and Revenue Operations in SaaS
 💼 **Experience**: Account management, churn prevention, revenue growth, product adoption 
 
