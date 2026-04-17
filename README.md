@@ -22,7 +22,6 @@ Starting my data analytic journey, blending business acumen with Python, SQL, an
 [](https://github.com/estelle90#-get-in-touch)
 
 Open to **Data Analyst** and **Revenue Operations** roles where customer insights meet data.  
-Reach out via [LinkedIn]([https://linkedin.com/in/yourprofile](http://linkedin.com/in/estelle-ntimih-85594a1b1](https://www.linkedin.com/in/estelle-ntimih-85594a1b1/)
-)) or email: entimih@gmail.com.
+Reach out via [LinkedIn](https://www.linkedin.com/in/estelle-ntimih-85594a1b1/) or email: entimih@gmail.com.
 
 *"Data validates what customer conversations taught me: retention is king."*
