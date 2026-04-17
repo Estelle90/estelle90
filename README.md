@@ -6,8 +6,8 @@ Customer Success and Retension Specialist turned **Data Analyst**.
 I've managed accounts, led onboardings, and driven churn prevention to boost revenue for SaaS/data companies. 
 Starting my data analytic journey, blending business acumen with Python, SQL, and visualization skills.
 
-🔭 **Career Transition**: Customer Success → Data Analytics  
-🎯 **Target Roles**: Data Analyst in SaaS, e-commerce, or product analytics  
+🔭 **Career Transition**: Customer Success → Data Analytics 
+🎯 **Career focus**: Data Analytics, Product Analytics, and Revenue Operations in SaaS
 💼 **Experience**: Account management, churn prevention, revenue growth, product adoption 
 
 🛠️ **Technical Skills**  
